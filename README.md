@@ -1,1 +1,1 @@
-# odin-links-and-images
+Esse site é sobre receitas.
